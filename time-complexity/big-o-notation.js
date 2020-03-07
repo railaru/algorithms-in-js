@@ -1,3 +1,11 @@
+//Time complexity of an algorithm signifies the total time required
+//by the the program to run to completion. The time complexity
+// of algorithms is most commonly expressed in big-o notation
+
+// big-o notation: worst case scenario, dropping any non-significant
+//operations or constants (there are other notations that don't assume 
+//worst case scenario, typically used in academic setting)
+
 //what if we have multiple expressions/loops/etc?
 
 //1 + 1 + 1 
